@@ -5,7 +5,7 @@ function Portfolio() {
 	// Replace links with deployed projects and GitHub repos
 	const [projects] = useState([
 		{
-			name: "surf-report",
+			name: "password-generator",
 			description:
 				"Javascript app that generates random password",
 			link: "https://toksly.github.io/Password-Generator/",
