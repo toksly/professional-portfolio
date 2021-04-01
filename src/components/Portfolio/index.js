@@ -10,7 +10,24 @@ function Portfolio() {
 			link: "https://toksly.github.io/Password-Generator/",
 			repo: "https://github.com/toksly/Password-Generator/",
 		},
-
+		{
+			name: "budget-tracker",
+			description: "Javascript/service walker/node.js app for tracking spending",
+			link: "https://toksly-budget-tracker.herokuapp.com/",
+			repo: "https://github.com/toksly/Budget-Tracker",
+		},
+		{
+			name: "movie-hub",
+			description: "Javascript/CSS/JQuery",
+			link: "https://clintonstrange.github.io/movie-hub/",
+			repo: "https://github.com/clintonstrange/movie-hub",
+		},
+		{
+			name: "tech-blog",
+			description: "Javascripthandlebars/sequelize/anode.js",
+			link: "https://toksly-tech-blog.herokuapp.com/",
+			repo: "https://github.com/toksly/tech-blog",
+		},
 		{
 			name: "spl-goalden",
 			description:
