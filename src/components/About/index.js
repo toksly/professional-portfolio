@@ -5,7 +5,13 @@ function About() {
 		<section className="my-5">
 			<div className="my-2">
 				<div className="profile-img my-5">
-					<i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+					{/* <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i> */}
+					<img
+						src={require("../../assets/profile/profile-img.jpg")}
+						width="200px"
+						height="200px"
+						style={{ borderRadius: "50%" }}
+					></img>
 				</div>
 				<p>
 					My name is Tochukwu Sylvester Nwizu. I attended the Vanderbilt
