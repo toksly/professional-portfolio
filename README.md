@@ -4,7 +4,6 @@ The name of this application is <i>professional-portfolio</i> It is a portfolio 
 <strong>Image</strong>
 ![](images/screenShot.png)
 
-
 <strong>Description</strong>
 This application gives users the ability to view some of the works I did, my resume, and they can also contact me through email
 <strong>Technology used</strong>
