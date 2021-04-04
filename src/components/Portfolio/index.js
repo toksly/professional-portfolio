@@ -59,6 +59,12 @@ function Portfolio() {
 			link: "https://toksly.github.io/Weather-Dashboard//github.com",
 			repo: "https://github.com/toksly/Weather-Dashboard",
 		},
+		{
+			name: "artist-store",
+			description: "MERN Art search engine",
+			link: "https://young-lake-28602.herokuapp.com/",
+			repo: "https://github.com/vloriandervishi/artist-store",
+		},
 	]);
 
 	return (
