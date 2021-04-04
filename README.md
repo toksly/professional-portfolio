@@ -2,7 +2,7 @@
 <strong>professional-portfolio</strong>
 The name of this application is <i>professional-portfolio</i> It is a portfolio that showcases some of the work I did using a single page application
 <strong>Image</strong>
-![](images/screenShot.png)
+![](src/assets/images/readme-image.png)
 
 <strong>Description</strong>
 This application gives users the ability to view some of the works I did, my resume, and they can also contact me through email
