@@ -2,6 +2,7 @@
 	"name": "portfolio",
 	"version": "0.1.0",
 	"private": true,
+	"main": "./src/index.js",
 	"homepage": "https://toksly.github.io/professional-porfolio",
 	"dependencies": {
 		"react": "^16.13.1",
