@@ -2,7 +2,7 @@
 	"name": "portfolio",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "http://toksly.github.io/professional-porfolio",
+	"homepage": "https://toksly.github.io/professional-porfolio",
 	"dependencies": {
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1",
