@@ -63,17 +63,8 @@ Sylvester Nwizu
 
 [Back to table of Contents](#table-of-contents)
 
----
 
 
-
----
-
-## Usage
-
-This application can be accessed via the link to the deployed application. To be able to utilize the full functionality of this application, simply sign up by providing a unique email and a password.
-
-[Back to Table of contrents](#table-of-contents)
 
 
 
