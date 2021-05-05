@@ -1,18 +1,82 @@
 # professional-portfolio
-<strong>professional-portfolio</strong>
-The name of this application is <i>professional-portfolio</i> It is a portfolio that showcases some of the work I did using a single page application
-<strong>Image</strong>
-![](src/assets/images/readme-image.png)
+[Screenshot of professional portfolio](src/assets/images/readme-image.png)
 
-<strong>Description</strong>
-This application gives users the ability to view some of the works I did, my resume, and they can also contact me through email
-<strong>Technology used</strong>
- Javascript, Node.js,and React
-<strong>Installation</strong>
-This project does not need any installation,rather it is currently hosted at github via this link https://toksly.github.io/professional-portfolio/
-<strong>Usage</strong>
+## Description
 
-The application is easy to use. It allows users to view my profile, works, my resume, and can also contact me through email
+This application uses a single page application to showcases some of the work I did. This application allows anyone to be able to view some of the works I did, my resume, and be able to contacat me throught email or linkedin
 
-<strong>Support and Contribution</strong>
-If you have any question please email me at nwizutoks@gmail.com
+## Table of Contents
+
+- [Website](#website)
+- [Built with](#built-with)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+## Website
+
+https://toksly.github.io/professional-portfolio/
+
+---
+
+## Built with
+
+- Javascript
+- Node.js
+- React
+
+
+[Back to Table of Contents](#table-of-contents)
+
+---
+
+## Usage
+
+This application can be accessed by clicking on the link to the deployed application. Since it is a single page application, it is easy to navigate from the about page, to contact and portfolio.
+
+[Back to Table of contrents](#table-of-contents)
+
+---
+
+## Contributors
+
+---
+---
+
+Sylvester Nwizu
+
+---
+---
+
+[Back to Table of Contents](#table-of-contents)
+
+---
+
+## Acknowledgements
+
+- [react](https://reactjs.org/)
+- [gh-pages](https://www.npmjs.com/package/gh-pages)
+
+---
+
+[Back to table of Contents](#table-of-contents)
+
+---
+
+
+
+---
+
+## Usage
+
+This application can be accessed via the link to the deployed application. To be able to utilize the full functionality of this application, simply sign up by providing a unique email and a password.
+
+[Back to Table of contrents](#table-of-contents)
+
+
+
+
+
+
