@@ -1,5 +1,5 @@
 # professional-portfolio
-[Screenshot of professional portfolio](src/assets/images/readme-image.png)
+![Screenshot of professional portfolio](src/assets/images/readme-image.png)
 
 ## Description
 
